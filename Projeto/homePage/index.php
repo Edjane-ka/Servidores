@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="refresh" content= "10">
+	<title> Página Inicial </title>
+    <link rel="stylesheet" type="text/css" href="home.css">
+</head>
+<body>
+    <header>
+        <div class="head" id ="imagem_1">
+            <img src="https://st.depositphotos.com/1389715/3354/i/600/depositphotos_33545773-stock-photo-european-brand-new-clothes-shop.jpg">
+                <nav class="nave">
+                    <button class="click"><a href="../cadResgate/resgate.php"> Cadastro de Pedidos </a></button>
+                    <button class="click"><a href="../cadNoticia/noticias.php"> Central de Novidades </a></button>
+                </nav>
+            <h3 class="text"> 
+               Eg começou em 1957, no interior de São Paulo na cidade de Franca. O casal Luiza Trajano e Pelegrino José Donato comprou “A Cristaleira” uma pequena loja de presentes. Depois de um concurso de rádio na cidade, “A Cristaleira” teve uma mudança de nome e se tornou “Eg”. A Eg tornou-se a primeira empresa nacional a ter um centro de distribuição automatizado em 1980. Após 10 anos, com a chegada de Luiza para comandar o negócio a empresa teve muito sucesso e acabou se tornando um dos primeiros e-commerces do Brasil e do Mundo.
+            </h3>
+        
+    </header>
+    
+       <script src="home.js"></script>
+ 
+</body>
+</html> 

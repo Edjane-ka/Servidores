@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+     background-color:#99003d;
+    text-align: absolute;
+
+  }
+.head{
+     background-color:#99003d;
+}
+
+.nave {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
+    position: absolute;
+    right: 50%;
+    top: 10%;
+    transform: translate(-50, -90%);   
+    width: 100px;
+}
+
+.click {
+    background-color:#99003d
+    color: black;
+    
+}
+
+.text {
+    color: black;
+}
+
+.nave{
+    position: absolute;
+     right: 50%;
+     left: 50%;
+     top: 10%;
+}
