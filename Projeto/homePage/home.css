@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #FFFF5C;
+    text-align: absolute;
+
+  }
+.head{
+    border: 2px solid #D2691E;
+}
+
+.nave {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
+    position: absolute;
+    right: 50%;
+    top: 10%;
+    transform: translate(-50, -90%);   
+    width: 100px;
+}
+
+.click {
+    background-color: #d2cf1e;
+    color: black;
+    
+}
+
+.text {
+    color: black;
+}
