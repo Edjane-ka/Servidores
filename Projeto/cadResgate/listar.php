@@ -19,14 +19,14 @@
     <h1>Cadastro realizado com sucesso!</h1>
 
     <ul>
-        <h1>Cadastro de resgates:</h1>
+        <h1>Cadastro de pedidos:</h1>
         <?php
         while ($row = $resultado->fetchArray()) {
             echo "<li>".$row['nome']."</li>";
-            echo "<li>".$row['animal']."</li>";
+            echo "<li>".$row['peça']."</li>";
             echo "<li>".$row['descricao']."</li>";
-            echo "<li>".$row['rua']."</li>";
-            echo "<li>".$row['referencia']."</li>";
+            echo "<li>".$row['endereço']."</li>";
+            echo "<li>".$row['formadepagamento']."</li>";
     
             
         }
